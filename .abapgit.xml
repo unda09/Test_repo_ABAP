@@ -11,8 +11,6 @@
     <item>/README.md</item>
     <item>/package.json</item>
     <item>/.travis.yml</item>
-    <item>/src/zz_gauss_timer_demo.prog.abap</item>
-    <item>/src/zz_gauss_timer_demo.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
